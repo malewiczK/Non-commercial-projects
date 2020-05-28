@@ -6,12 +6,12 @@ to grasp a bit my coding skills
 ----
 ## Projects available in this repo:
 
-- **Optiparam** [manual](#Optiparam)
+- **Optiparam** - [manual](#Optiparam)
 
 
 <a name="Optiparam"/>
 
-### Optiparam
+### [Optiparam](https://github.com/malewiczK/Non-commercial-projects/tree/master/optiparam)
 
 Project prepared as solution for an recruitment task. Below I enclose the content:
 <br><br>
@@ -42,4 +42,4 @@ After running, Optiparm provides the following output (example table is shown be
     3. The observed defaults percentages (flag into_default_flag equals 1 against all samples within the class).
     
 Remarks:
-    • The input parameters of the model can be tuned in order to get better results.
+ - The input parameters of the model can be tuned in order to get better results.
