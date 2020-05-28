@@ -1,0 +1,4 @@
+pandas==1.0.0
+pathlib==1.0.1
+scipy
+Click==7.0
