@@ -11,6 +11,9 @@ pip install -e .
 
 ### Optiparam transfroms continuous output into discrete buckets. 
 
+You can find sample data in:
+* [Link to data](optiparam/optiparam/data)
+
 Output consists of two files: 
 - df.csv: DataFrame with final rating classes
 - optiparam.csv: Desired output 
