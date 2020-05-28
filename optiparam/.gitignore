@@ -10,3 +10,4 @@ optiparam.egg*
 *.xlsx
 *.csv
 !optiparam/data/pd_model.csv
+!optiparam/data/pd_model_smaller.csv
