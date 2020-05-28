@@ -1,0 +1,12 @@
+###
+*.yaml
+*.yml
+.venv/
+*.json
+*.pyc
+__pycache__/*
+optiparam/trash/*
+optiparam.egg*
+*.xlsx
+*.csv
+!optiparam/data/pd_model.csv
