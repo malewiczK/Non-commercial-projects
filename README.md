@@ -35,11 +35,12 @@ Determine rating classes we use so called Optiparm Algorithm (OA). Below the gen
     The number of dummies reduces by one.
     8. The steps 4 to 7 will be run iteratively as long as the condition of significance from step 6 is not met.
     9. At this point all the remaining dummies are significant. Classes created this way are the final 
-    rating classes. 
-After running, Optiparm provides the following output (example table is shown below):
-    1. The number of clients per class
-    2. The lower and higher bounds per rating class of the original model values.
-    3. The observed defaults percentages (flag into_default_flag equals 1 against all samples within the class).
+    rating classes.
+    
+After running, Optiparm provides the following output:
+ 1. The number of clients per class
+ 2. The lower and higher bounds per rating class of the original model values.
+ 3. The observed defaults percentages (flag into_default_flag equals 1 against all samples within the class).
     
 Remarks:
  - The input parameters of the model can be tuned in order to get better results.
