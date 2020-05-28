@@ -5,8 +5,8 @@
 *.json
 *.pyc
 __pycache__/*
-report_app/trash/*
-report_app.egg*
+optiparam/trash/*
+optiparam.egg*
 *.xlsx
 *.csv
 !optiparam/data/pd_model.csv
